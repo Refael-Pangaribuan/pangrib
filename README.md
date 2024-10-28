@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Refael Pangaribuan</h1>
 <h3 align="center">A student in Computer Technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=refael-pangaribuan&label=Profile%20views&color=0e75b6&style=flat" alt="refael-pangaribuan" /> </p>
+
 - 🌱 I’m currently learning **Courses**
 
 - 👯 I’m looking to collaborate on **I would like to collaborate in the DevOps field for exploration and development of innovative solutions.**
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/refael-pangaribuan-257a06272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/refael-pangaribuan-257a06272/" height="30" width="40" /></a>
-<a href="https://instagram.com/refaelpangaribuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="refaelpangaribuan" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/refaelpangaribuan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/refaelpangaribuan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
