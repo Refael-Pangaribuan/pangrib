@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Courses<br><br>👯 I’m looking to collaborate on I would like to collaborate in the DevOps field for exploration and development of innovative solutions.<br><br>🤝 I’m looking for help with I’m looking for help with advancing my skills in DevOps practices and tools.<br><br>💬 Ask me about Ask me about my interests in DevOps practices and tools I'm eager to learn<br><br>📫 How to reach me refaelpangaribuan123@gmail.com
+🌱 I’m currently learning Courses<br><br>👯 I’m looking to collaborate on I would like to collaborate in the DevOps field for exploration and development of innovative solutions.<br><br>🤝 I’m looking for help 
+    with I’m looking for help with advancing my skills in DevOps practices and tools.<br><br>💬 Ask me about Ask me about my interests in DevOps practices and tools I'm eager to learn<br><br>📫 How to reach me refaelpangaribuan123@gmail.com
 
 
 ## 🌐 Socials:
